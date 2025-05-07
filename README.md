@@ -15,7 +15,7 @@ Honey, 7 May 2025
 ## Cedrus atlantica Glauca (Cedrus libani) 5, 7
 Honey, 7 May 2025
 
-## Cedrus atlantica Glauca (Cedrus libani) 5, 7 6, 8
+## Cedrus atlantica Glauca (Cedrus libani) 6, 8
 Cucumber, 7 May 2025
 
 ## Field maple 9, 10
