@@ -12,10 +12,10 @@ Cucumber, 7 May 2025
 ## Pine 4
 Honey, 7 May 2025
 
-## Pine 5, 7
+## Cedrus atlantica Glauca (Cedrus libani) 5, 7
 Honey, 7 May 2025
 
-## Pine 6, 8
+## Cedrus atlantica Glauca (Cedrus libani) 5, 7 6, 8
 Cucumber, 7 May 2025
 
 ## Field maple 9, 10
